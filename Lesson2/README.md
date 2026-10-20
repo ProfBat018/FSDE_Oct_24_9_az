@@ -114,3 +114,8 @@ jupyter notebook
 ```
 
 Brauzerdə `data_science_dersi.ipynb` faylını açın. Kernel eynidir: **Python 3.15 (STEP)**.
+
+
+# Ev tapşırığı
+
+14 slayddan mathplotlib kitabxanasına qədər slaydları araşdırmaq. 
