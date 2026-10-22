@@ -380,8 +380,8 @@ section("3. matplotlib")
 
 # Fiqur bütün şəkildir. Axes bir koordinat sahəsidir.
 # Qrafik sahəyə əlavə olunur. subplots hər ikisini birlikdə qaytarır.
-fig, ax = plt.subplots()
-ax.plot([1, 2, 3, 4], [70, 85, 90, 60], marker="o")
+fig, ax = plt.subplots() # subplots həm fiquru, həm də oxu birlikdə qaytarır. 
+ax.plot([1, 2, 3, 4], [70, 85, 90, 60], marker="o") # qiymətləri oxu, marker işarəsi ilə göstərir.
 ax.set_title("score")
 ax.set_xlabel("nömrə")
 ax.set_ylabel("bal")
