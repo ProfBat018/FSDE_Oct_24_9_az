@@ -1,0 +1,11 @@
+{
+  "executionEnvironments": [
+    {
+      "root": "Lesson8",
+      "pythonVersion": "3.13",
+      "extraPaths": [
+        "../Lesson2/.venv/lib/python3.13/site-packages"
+      ]
+    }
+  ]
+}
